@@ -1,3 +1,6 @@
+//to see output in console , include current
+// typescript file in index.html
+
 // creating custom type using interface
 interface Person {
   name: string;
