@@ -15,5 +15,7 @@ function demo3() {
 }
 
 //demo(); infinite loop
-demo2(); // throws error
+// try{
+//   demo2(); // throws error
+// }catch(Error e){}
 demo3();
