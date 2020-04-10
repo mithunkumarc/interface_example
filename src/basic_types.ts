@@ -1,1 +1,1 @@
-console.log("basic types examples");
+console.log("1.boolean type");
